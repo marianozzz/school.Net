@@ -1,0 +1,7 @@
+C:\workspace\school.NET\bin\Debug\school.NET.exe.config
+C:\workspace\school.NET\bin\Debug\school.NET.exe
+C:\workspace\school.NET\bin\Debug\school.NET.pdb
+C:\workspace\school.NET\obj\Debug\school.NET.csprojAssemblyReference.cache
+C:\workspace\school.NET\obj\Debug\school.NET.csproj.CoreCompileInputs.cache
+C:\workspace\school.NET\obj\Debug\school.NET.exe
+C:\workspace\school.NET\obj\Debug\school.NET.pdb
